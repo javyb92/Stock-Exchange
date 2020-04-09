@@ -1,5 +1,7 @@
 # Stock Exchange
 
+![Stock Exchange](https://user-images.githubusercontent.com/59591116/78945243-71ff0980-7a85-11ea-920c-4f402c44244c.gif)
+
 
 With this project the user can log in and view their stocks. using yahoo finance api the user logs in and searches for the stocks they would like to get quotes for and a card will appears for each stock searced for. The user then can save the card to their own profile to save so when they visit again the stock cards are already on their page. They can delete the stock is they choose they no longer would like to follow that particular stock.
 
